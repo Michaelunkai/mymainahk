@@ -1,0 +1,1024 @@
+2025-06-29 13:56:59 - CLEANUP: Starting suspended list cleanup
+2025-06-29 13:56:59 - CLEANUP: Completed, 0 entries removed
+2025-06-29 13:58:47 - TERMINAL: Attempting to open floating terminal
+2025-06-29 13:58:48 - TERMINAL: PowerShell opened
+2025-06-29 13:59:29 - TERMINAL: Attempting to open floating terminal
+2025-06-29 13:59:30 - TERMINAL: Windows Terminal opened
+2025-06-29 13:59:44 - TEXT_SHORTCUT: Triggered 'ide' -> 'CURSOR_APP'
+2025-06-29 13:59:44 - LAUNCHER: Attempting to launch Cursor IDE
+2025-06-29 13:59:44 - LAUNCHER: Cursor already running, activated window
+2025-06-29 14:00:13 - TERMINAL: Attempting to open floating terminal
+2025-06-29 14:00:14 - TERMINAL: Windows Terminal opened
+2025-06-29 14:01:18 - TEXT_SHORTCUT: Triggered 'ide' -> 'CURSOR_APP'
+2025-06-29 14:01:18 - LAUNCHER: Attempting to launch Cursor IDE
+2025-06-29 14:01:18 - LAUNCHER: Cursor IDE launched successfully
+2025-06-29 14:01:20 - LAUNCHER: Cursor window activated
+2025-06-29 14:01:59 - CLEANUP: Starting suspended list cleanup
+2025-06-29 14:01:59 - CLEANUP: Completed, 0 entries removed
+2025-06-29 14:02:00 - TEXT_SHORTCUT: Triggered 'mymail' -> 'COPY_EMAIL'
+2025-06-29 14:02:00 - CLIPBOARD: Copied text to clipboard (length: 23)
+2025-06-29 14:02:22 - TEXT_SHORTCUT: Triggered 'myp' -> 'COPY_PASS2'
+2025-06-29 14:02:22 - CLIPBOARD: Copied text to clipboard (length: 14)
+2025-06-29 14:02:38 - TEXT_SHORTCUT: Triggered 'mymail' -> 'COPY_EMAIL'
+2025-06-29 14:02:38 - CLIPBOARD: Copied text to clipboard (length: 23)
+2025-06-29 14:02:40 - TEXT_SHORTCUT: Triggered 'myp' -> 'COPY_PASS2'
+2025-06-29 14:02:40 - CLIPBOARD: Copied text to clipboard (length: 14)
+2025-06-29 14:06:14 - TERMINAL: Attempting to open floating terminal
+2025-06-29 14:06:14 - TERMINAL: Windows Terminal opened
+2025-06-29 14:06:26 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 14:06:28 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 14:06:28 - TERMINAL: Attempting to open floating terminal
+2025-06-29 14:06:28 - TERMINAL: Windows Terminal opened
+2025-06-29 14:06:59 - CLEANUP: Starting suspended list cleanup
+2025-06-29 14:06:59 - CLEANUP: Completed, 0 entries removed
+2025-06-29 14:10:29 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 14:10:29 - TERMINAL: Attempting to open floating terminal
+2025-06-29 14:10:29 - TERMINAL: Windows Terminal opened
+2025-06-29 14:11:26 - CLEANUP: Starting suspended list cleanup
+2025-06-29 14:11:26 - CLEANUP: Completed, 0 entries removed
+2025-06-29 14:11:59 - CLEANUP: Starting suspended list cleanup
+2025-06-29 14:12:00 - CLEANUP: Completed, 0 entries removed
+2025-06-29 14:12:17 - TEXT_SHORTCUT: Triggered 'chatgpt' -> 'CHATGPT_WEB'
+2025-06-29 14:12:17 - TEXT_SHORTCUT: Triggered 'chatgpt' -> 'CHATGPT_WEB'
+2025-06-29 14:12:17 - WEB: Opening ChatGPT in Chrome
+2025-06-29 14:12:17 - WEB: Opening ChatGPT in Chrome
+2025-06-29 14:12:18 - WEB: ChatGPT opened in Chrome
+2025-06-29 14:12:18 - WEB: ChatGPT opened in Chrome
+2025-06-29 14:12:20 - TEXT_SHORTCUT: Triggered 'chatgpt' -> 'CHATGPT_WEB'
+2025-06-29 14:12:20 - WEB: Opening ChatGPT in Chrome
+2025-06-29 14:12:20 - WEB: Opening ChatGPT in Chrome
+2025-06-29 14:12:22 - WEB: ChatGPT opened in Chrome
+2025-06-29 14:12:22 - WEB: ChatGPT opened in Chrome
+2025-06-29 14:14:23 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:14:23 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:14:23 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:14:24 - LAUNCHER: Firefox launched successfully
+2025-06-29 14:14:30 - LAUNCHER: Firefox window activated
+2025-06-29 14:14:31 - LAUNCHER: Firefox window activated
+2025-06-29 14:16:26 - CLEANUP: Starting suspended list cleanup
+2025-06-29 14:16:27 - CLEANUP: Completed, 0 entries removed
+2025-06-29 14:16:40 - TEXT_SHORTCUT: Triggered 'mytodo' -> 'TODOIST_APP'
+2025-06-29 14:16:40 - TEXT_SHORTCUT: Triggered 'mytodo' -> 'TODOIST_APP'
+2025-06-29 14:16:41 - LAUNCHER: Attempting to launch Todoist
+2025-06-29 14:16:42 - LAUNCHER: Attempting to launch Todoist
+2025-06-29 14:16:46 - LAUNCHER: Todoist launched via direct path: F:\backup\windowsapps\installed\todoist\Todoist.exe
+2025-06-29 14:16:46 - LAUNCHER: Todoist launched via direct path: F:\backup\windowsapps\installed\todoist\Todoist.exe
+2025-06-29 14:16:59 - CLEANUP: Starting suspended list cleanup
+2025-06-29 14:16:59 - CLEANUP: Completed, 0 entries removed
+2025-06-29 14:17:11 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:17:11 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:17:11 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:17:11 - LAUNCHER: Firefox launched successfully
+2025-06-29 14:17:11 - LAUNCHER: Firefox launched successfully
+2025-06-29 14:17:18 - LAUNCHER: Firefox window activated
+2025-06-29 14:17:19 - LAUNCHER: Firefox window activated
+2025-06-29 14:17:46 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:17:46 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:17:46 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:17:46 - LAUNCHER: Firefox process exists but no window found
+2025-06-29 14:17:46 - LAUNCHER: Firefox process exists but no window found
+2025-06-29 14:17:48 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:17:48 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:17:49 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:17:49 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:17:49 - LAUNCHER: Firefox process exists but no window found
+2025-06-29 14:17:49 - LAUNCHER: Firefox process exists but no window found
+2025-06-29 14:18:14 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 14:18:14 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 14:18:14 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 14:18:20 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 14:18:22 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 14:18:36 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:18:36 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:18:36 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:18:36 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:18:37 - LAUNCHER: Firefox launched successfully
+2025-06-29 14:18:44 - LAUNCHER: Firefox window activated
+2025-06-29 14:18:45 - LAUNCHER: Firefox window activated
+2025-06-29 14:18:56 - CLOSE_WINDOW: Blocked attempt to close protected process window: dwm.exe
+2025-06-29 14:18:56 - CLOSE_WINDOW: Blocked attempt to close protected process window: dwm.exe
+2025-06-29 14:18:57 - CLOSE_WINDOW: Blocked attempt to close protected process window: dwm.exe
+2025-06-29 14:19:01 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:19:01 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:19:02 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:19:02 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:19:03 - LAUNCHER: Firefox process exists but no window found
+2025-06-29 14:19:04 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:19:04 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:19:04 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:19:04 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:19:04 - LAUNCHER: Firefox already running, activated window
+2025-06-29 14:19:06 - LAUNCHER: Firefox already running, activated window
+2025-06-29 14:19:06 - ERROR in GetActiveProcess: (5) Access is denied.
+2025-06-29 14:19:10 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 14:19:10 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 14:19:10 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 14:19:10 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 14:19:10 - REBOOT: Initiating immediate system reboot
+2025-06-29 14:19:10 - REBOOT: Initiating immediate system reboot
+2025-06-29 14:19:10 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 14:19:10 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 14:19:11 - SHUTDOWN: All processes resumed before exit
+2025-06-29 14:21:33 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 14:21:38 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 14:21:38 - TERMINAL: Attempting to open floating terminal
+2025-06-29 14:21:38 - TERMINAL: Windows Terminal opened
+2025-06-29 14:21:39 - CLOSE_WINDOW: Attempting to close window for WindowsTerminal.exe - Administrator: Windows PowerShell (keep process running)
+2025-06-29 14:21:39 - CLOSE_WINDOW: Successfully closed window for WindowsTerminal.exe (process still running)
+2025-06-29 14:22:31 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 14:22:31 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 14:22:31 - LAUNCHER: Chrome launched successfully
+2025-06-29 14:22:33 - LAUNCHER: Chrome window activated
+2025-06-29 14:23:48 - FULLSIZE: Triple-tap E detected
+2025-06-29 14:23:48 - FULLSIZE: Processing window - chrome.exe (RAMDisk Performance Boost Script - Google Chrome)
+2025-06-29 14:23:48 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 14:23:48 - FULLSIZE: Applied windowed style with borders
+2025-06-29 14:23:49 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 14:23:49 - FULLSIZE: Successfully applied full size mode to chrome.exe
+2025-06-29 14:24:43 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:24:43 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:24:43 - LAUNCHER: Firefox launched successfully
+2025-06-29 14:24:45 - LAUNCHER: Firefox window activated
+2025-06-29 14:24:54 - TEXT_SHORTCUT: Triggered 'mytodo' -> 'TODOIST_APP'
+2025-06-29 14:24:54 - LAUNCHER: Attempting to launch Todoist
+2025-06-29 14:24:55 - LAUNCHER: Todoist launched via direct path: F:\backup\windowsapps\installed\todoist\Todoist.exe
+2025-06-29 14:24:57 - LAUNCHER: Todoist window activated (Todoist.exe)
+2025-06-29 14:26:05 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 14:26:05 - TERMINAL: Attempting to open floating terminal
+2025-06-29 14:26:05 - TERMINAL: Windows Terminal opened
+2025-06-29 14:26:33 - CLEANUP: Starting suspended list cleanup
+2025-06-29 14:26:33 - CLEANUP: Completed, 0 entries removed
+2025-06-29 14:26:51 - TEXT_SHORTCUT: Triggered 'logout' -> 'refresh2'
+2025-06-29 14:26:51 - TERMINAL_CMD: Executing command - refresh2
+2025-06-29 14:26:52 - SHUTDOWN: Script exiting - Reason: Logoff
+2025-06-29 14:26:52 - SHUTDOWN: All processes resumed before exit
+2025-06-29 14:49:53 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 14:49:59 - ERROR in GetActiveProcess: Target window not found.
+2025-06-29 14:49:59 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 14:49:59 - TERMINAL: Attempting to open floating terminal
+2025-06-29 14:49:59 - TERMINAL: Windows Terminal opened
+2025-06-29 14:50:05 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 14:50:05 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 14:50:05 - LAUNCHER: Chrome launched successfully
+2025-06-29 14:50:07 - LAUNCHER: Chrome window activated
+2025-06-29 14:50:09 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 14:50:09 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 14:50:13 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 14:50:14 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 14:50:14 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 14:50:15 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 14:50:22 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 14:50:22 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 14:50:22 - LAUNCHER: Firefox launched successfully
+2025-06-29 14:50:24 - LAUNCHER: Firefox window activated
+2025-06-29 14:53:07 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 14:53:07 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 14:53:08 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 14:53:10 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 14:53:10 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 14:53:10 - REBOOT: Initiating immediate system reboot
+2025-06-29 14:53:10 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 14:53:10 - SHUTDOWN: All processes resumed before exit
+2025-06-29 14:54:16 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 14:57:29 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 14:57:29 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 14:57:29 - LAUNCHER: Chrome launched successfully
+2025-06-29 14:57:31 - LAUNCHER: Chrome window activated
+2025-06-29 14:57:38 - TEXT_SHORTCUT: Triggered 'youtube' -> 'YOUTUBE_WEB'
+2025-06-29 14:57:38 - WEB: Opening YouTube in Chrome
+2025-06-29 14:57:38 - WEB: YouTube opened in Chrome
+2025-06-29 14:59:16 - CLEANUP: Starting suspended list cleanup
+2025-06-29 14:59:16 - CLEANUP: Completed, 0 entries removed
+2025-06-29 15:00:32 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 15:00:32 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 15:00:32 - REBOOT: Initiating immediate system reboot
+2025-06-29 15:00:33 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 15:00:33 - SHUTDOWN: All processes resumed before exit
+2025-06-29 15:01:40 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 15:03:50 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 15:03:50 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 15:03:50 - LAUNCHER: Chrome launched successfully
+2025-06-29 15:03:52 - LAUNCHER: Chrome window activated
+2025-06-29 15:06:40 - CLEANUP: Starting suspended list cleanup
+2025-06-29 15:06:40 - CLEANUP: Completed, 0 entries removed
+2025-06-29 15:11:00 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 15:11:00 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 15:11:00 - LAUNCHER: Firefox launched successfully
+2025-06-29 15:11:02 - LAUNCHER: Firefox window activated
+2025-06-29 15:11:40 - CLEANUP: Starting suspended list cleanup
+2025-06-29 15:11:40 - CLEANUP: Completed, 0 entries removed
+2025-06-29 15:12:34 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 15:12:34 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 15:12:34 - LAUNCHER: Chrome already running, activated window
+2025-06-29 15:13:08 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 15:13:08 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 15:13:08 - LAUNCHER: Firefox launched successfully
+2025-06-29 15:13:10 - LAUNCHER: Firefox window activated
+2025-06-29 15:16:13 - TEXT_SHORTCUT: Triggered 'uninstall' -> 'BCUNINSTALLER_APP'
+2025-06-29 15:16:13 - LAUNCHER: Attempting to launch BCUninstaller
+2025-06-29 15:16:13 - LAUNCHER: BCUninstaller launched successfully from: F:\backup\windowsapps\installed\BCUninstaller\BCUninstaller.exe
+2025-06-29 15:16:15 - LAUNCHER: BCUninstaller window activated
+2025-06-29 15:16:40 - CLEANUP: Starting suspended list cleanup
+2025-06-29 15:16:40 - CLEANUP: Completed, 0 entries removed
+2025-06-29 15:21:05 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 15:21:05 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 15:21:06 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 15:21:29 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 15:21:29 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 15:21:29 - REBOOT: Initiating immediate system reboot
+2025-06-29 15:21:29 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 15:21:29 - SHUTDOWN: All processes resumed before exit
+2025-06-29 15:22:36 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 15:24:42 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 15:24:42 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 15:24:42 - REBOOT: Initiating immediate system reboot
+2025-06-29 15:24:42 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 15:24:42 - SHUTDOWN: All processes resumed before exit
+2025-06-29 15:25:51 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 15:26:29 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 15:26:29 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 15:26:29 - LAUNCHER: Chrome launched successfully
+2025-06-29 15:26:31 - LAUNCHER: Chrome window activated
+2025-06-29 15:30:51 - CLEANUP: Starting suspended list cleanup
+2025-06-29 15:30:51 - CLEANUP: Completed, 0 entries removed
+2025-06-29 15:32:53 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 15:32:53 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 15:32:53 - LAUNCHER: Firefox launched successfully
+2025-06-29 15:32:55 - LAUNCHER: Firefox window activated
+2025-06-29 15:33:45 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 15:33:45 - TERMINAL: Attempting to open floating terminal
+2025-06-29 15:33:47 - WARNING: No terminal application could be opened
+2025-06-29 15:33:48 - TERMINAL: Attempting to open floating terminal
+2025-06-29 15:33:51 - WARNING: No terminal application could be opened
+2025-06-29 15:34:26 - TERMINAL: Attempting to open floating terminal
+2025-06-29 15:34:28 - WARNING: No terminal application could be opened
+2025-06-29 15:35:51 - CLEANUP: Starting suspended list cleanup
+2025-06-29 15:35:51 - CLEANUP: Completed, 0 entries removed
+2025-06-29 15:36:08 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 15:36:08 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 15:36:08 - LAUNCHER: Chrome already running, activated window
+2025-06-29 15:39:18 - TEXT_SHORTCUT: Triggered 'gmail' -> 'GMAIL_WEB'
+2025-06-29 15:39:18 - WEB: Opening Gmail Account 0 in Chrome
+2025-06-29 15:39:18 - WEB: Gmail Account 0 opened in Chrome
+2025-06-29 15:40:51 - CLEANUP: Starting suspended list cleanup
+2025-06-29 15:40:51 - CLEANUP: Completed, 0 entries removed
+2025-06-29 15:42:56 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 15:42:56 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 15:42:56 - REBOOT: Initiating immediate system reboot
+2025-06-29 15:42:57 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 15:42:57 - SHUTDOWN: All processes resumed before exit
+2025-06-29 15:44:10 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 15:44:19 - TERMINAL: Attempting to open floating terminal
+2025-06-29 15:44:22 - WARNING: No terminal application could be opened
+2025-06-29 15:45:17 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 15:45:17 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 15:45:17 - LAUNCHER: Chrome launched successfully
+2025-06-29 15:45:18 - LAUNCHER: Chrome window activated
+2025-06-29 15:48:35 - TERMINAL: Attempting to open floating terminal
+2025-06-29 15:48:38 - WARNING: No terminal application could be opened
+2025-06-29 15:49:10 - CLEANUP: Starting suspended list cleanup
+2025-06-29 15:49:10 - CLEANUP: Completed, 0 entries removed
+2025-06-29 15:54:10 - CLEANUP: Starting suspended list cleanup
+2025-06-29 15:54:10 - CLEANUP: Completed, 0 entries removed
+2025-06-29 15:54:29 - TEXT_SHORTCUT: Triggered 'mreflect' -> 'MACRIUM_REFLECT_APP'
+2025-06-29 15:54:29 - LAUNCHER: Attempting to launch Macrium Reflect
+2025-06-29 15:54:29 - LAUNCHER: Macrium Reflect launched successfully from: F:\backup\windowsapps\installed\MacriumReflect\Reflect\Reflect.exe
+2025-06-29 15:54:44 - WARNING: Macrium Reflect launched but window not detected within 10 seconds
+2025-06-29 15:59:05 - TERMINAL: Attempting to open floating terminal
+2025-06-29 15:59:06 - TERMINAL: Windows Terminal opened
+2025-06-29 15:59:10 - CLEANUP: Starting suspended list cleanup
+2025-06-29 15:59:10 - CLEANUP: Completed, 0 entries removed
+2025-06-29 16:02:12 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 16:02:12 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 16:02:12 - LAUNCHER: Chrome launched successfully
+2025-06-29 16:02:14 - LAUNCHER: Chrome window activated
+2025-06-29 16:04:09 - TEXT_SHORTCUT: Triggered 'ide' -> 'CURSOR_APP'
+2025-06-29 16:04:09 - LAUNCHER: Attempting to launch Cursor IDE
+2025-06-29 16:04:10 - LAUNCHER: Cursor IDE launched successfully
+2025-06-29 16:04:10 - CLEANUP: Starting suspended list cleanup
+2025-06-29 16:04:10 - CLEANUP: Completed, 0 entries removed
+2025-06-29 16:04:12 - LAUNCHER: Cursor window activated
+2025-06-29 16:04:25 - TEXT_SHORTCUT: Triggered 'prof' -> 'brc'
+2025-06-29 16:04:25 - TERMINAL_CMD: Executing command - brc
+2025-06-29 16:04:26 - TERMINAL_CMD: Executed 'brc' with self-terminating PowerShell
+2025-06-29 16:05:04 - TEXT_SHORTCUT: Triggered 'ide' -> 'CURSOR_APP'
+2025-06-29 16:05:04 - LAUNCHER: Attempting to launch Cursor IDE
+2025-06-29 16:05:04 - LAUNCHER: Cursor IDE launched successfully
+2025-06-29 16:05:06 - LAUNCHER: Cursor window activated
+2025-06-29 16:09:10 - CLEANUP: Starting suspended list cleanup
+2025-06-29 16:09:10 - CLEANUP: Completed, 0 entries removed
+2025-06-29 16:13:57 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 16:13:57 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 16:13:57 - LAUNCHER: Chrome launched successfully
+2025-06-29 16:13:59 - LAUNCHER: Chrome window activated
+2025-06-29 16:14:10 - CLEANUP: Starting suspended list cleanup
+2025-06-29 16:14:10 - CLEANUP: Completed, 0 entries removed
+2025-06-29 16:14:34 - TEXT_SHORTCUT: Triggered 'myp' -> 'COPY_PASS2'
+2025-06-29 16:14:34 - CLIPBOARD: Copied text to clipboard (length: 14)
+2025-06-29 16:15:16 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 16:15:20 - TEXT_SHORTCUT: Triggered 'yyyy' -> 'SPLIT_THREE_APPS'
+2025-06-29 16:15:20 - SPLIT_THREE_APPS: Starting horizontal split of top 3 applications
+2025-06-29 16:15:20 - SPLIT_THREE_APPS: Positioned WindowsTerminal.exe on left third
+2025-06-29 16:15:20 - SPLIT_THREE_APPS: Positioned Cursor.exe on middle third
+2025-06-29 16:15:20 - SPLIT_THREE_APPS: Positioned chrome.exe on right third
+2025-06-29 16:15:20 - SPLIT_THREE_APPS: Successfully split WindowsTerminal.exe, Cursor.exe, and chrome.exe horizontally
+2025-06-29 16:15:28 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 16:15:28 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 16:15:34 - DESKTOP: Switched to Desktop 2
+2025-06-29 16:15:35 - DESKTOP: Switched to Desktop 1
+2025-06-29 16:15:49 - TEXT_SHORTCUT: Triggered 'eee' -> ForceFullSizeMode()
+2025-06-29 16:15:49 - TEXT_SHORTCUT: Triggered 'eee' -> ForceFullSizeMode()
+2025-06-29 16:15:49 - FULLSIZE: Processing window - WindowsTerminal.exe (Administrator: Windows PowerShell)
+2025-06-29 16:15:49 - FULLSIZE: Processing window - WindowsTerminal.exe (Administrator: Windows PowerShell)
+2025-06-29 16:15:49 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 16:15:49 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 16:15:49 - FULLSIZE: Applied windowed style with borders
+2025-06-29 16:15:49 - FULLSIZE: Applied windowed style with borders
+2025-06-29 16:15:49 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 16:15:49 - FULLSIZE: Successfully applied full size mode to WindowsTerminal.exe
+2025-06-29 16:15:49 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 16:15:49 - FULLSIZE: Triple-tap E detected
+2025-06-29 16:15:49 - FULLSIZE: Successfully applied full size mode to WindowsTerminal.exe
+2025-06-29 16:15:49 - FULLSIZE: Processing window - WindowsTerminal.exe (Administrator: Windows PowerShell)
+2025-06-29 16:15:49 - FULLSIZE: Triple-tap E detected
+2025-06-29 16:15:49 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 16:15:49 - FULLSIZE: Processing window - WindowsTerminal.exe (Administrator: Windows PowerShell)
+2025-06-29 16:15:49 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 16:15:49 - FULLSIZE: Applied windowed style with borders
+2025-06-29 16:15:49 - FULLSIZE: Applied windowed style with borders
+2025-06-29 16:15:49 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 16:15:49 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 16:15:49 - FULLSIZE: Successfully applied full size mode to WindowsTerminal.exe
+2025-06-29 16:15:49 - FULLSIZE: Successfully applied full size mode to WindowsTerminal.exe
+2025-06-29 16:16:37 - DESKTOP: Switched to Desktop 2
+2025-06-29 16:16:38 - DESKTOP: Switched to Desktop 1
+2025-06-29 16:19:10 - CLEANUP: Starting suspended list cleanup
+2025-06-29 16:19:10 - CLEANUP: Completed, 0 entries removed
+2025-06-29 16:20:16 - CLEANUP: Starting suspended list cleanup
+2025-06-29 16:20:16 - CLEANUP: Completed, 0 entries removed
+2025-06-29 16:21:02 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 16:21:02 - SHUTDOWN: All processes resumed before exit
+2025-06-29 16:21:02 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 16:21:02 - SHUTDOWN: All processes resumed before exit
+2025-06-29 16:22:24 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 16:23:05 - TEXT_SHORTCUT: Triggered 'claude' -> 'CLAUDE_WEB'
+2025-06-29 16:23:05 - WEB: Opening Claude.ai in Chrome
+2025-06-29 16:23:05 - WEB: Claude.ai opened in Chrome
+2025-06-29 16:23:16 - TEXT_SHORTCUT: Triggered 'uninstall' -> 'BCUNINSTALLER_APP'
+2025-06-29 16:23:16 - LAUNCHER: Attempting to launch BCUninstaller
+2025-06-29 16:23:16 - LAUNCHER: BCUninstaller launched successfully from: F:\backup\windowsapps\installed\BCUninstaller\BCUninstaller.exe
+2025-06-29 16:23:20 - LAUNCHER: BCUninstaller window activated
+2025-06-29 16:23:44 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 16:23:44 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 16:23:44 - LAUNCHER: Firefox launched successfully
+2025-06-29 16:23:45 - LAUNCHER: Firefox window activated
+2025-06-29 16:27:24 - CLEANUP: Starting suspended list cleanup
+2025-06-29 16:27:24 - CLEANUP: Completed, 0 entries removed
+2025-06-29 16:29:10 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 16:29:10 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 16:29:10 - LAUNCHER: Firefox launched successfully
+2025-06-29 16:29:11 - LAUNCHER: Firefox window activated
+2025-06-29 16:30:17 - TEXT_SHORTCUT: Triggered 'claude' -> 'CLAUDE_WEB'
+2025-06-29 16:30:17 - WEB: Opening Claude.ai in Chrome
+2025-06-29 16:30:17 - WEB: Claude.ai opened in Chrome
+2025-06-29 16:31:40 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 16:31:40 - SHUTDOWN: All processes resumed before exit
+2025-06-29 16:32:51 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 16:34:02 - TEXT_SHORTCUT: Triggered 'logout' -> 'refresh2'
+2025-06-29 16:34:02 - TERMINAL_CMD: Executing command - refresh2
+2025-06-29 16:34:04 - TERMINAL_CMD: Executed 'refresh2' with self-terminating PowerShell
+2025-06-29 16:34:04 - SHUTDOWN: Script exiting - Reason: Logoff
+2025-06-29 16:34:04 - SHUTDOWN: All processes resumed before exit
+2025-06-29 16:34:14 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 16:34:15 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 16:34:15 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 16:34:17 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 16:34:19 - TEXT_SHORTCUT: Triggered 'wall' -> 'WALLPAPER_APP'
+2025-06-29 16:34:19 - LAUNCHER: Attempting to launch WallPaper app
+2025-06-29 16:34:19 - LAUNCHER: WallPaper app launched successfully
+2025-06-29 16:34:43 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 16:34:43 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 16:34:43 - LAUNCHER: Chrome launched successfully
+2025-06-29 16:34:45 - LAUNCHER: Chrome window activated
+2025-06-29 16:35:27 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 16:35:27 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 16:35:27 - LAUNCHER: Chrome already running, activated window
+2025-06-29 16:35:29 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 16:35:29 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 16:35:29 - LAUNCHER: Firefox launched successfully
+2025-06-29 16:35:30 - LAUNCHER: Firefox window activated
+2025-06-29 16:35:50 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 16:35:50 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 16:35:50 - LAUNCHER: Chrome already running, activated window
+2025-06-29 16:36:54 - TERMINAL: Attempting to open floating terminal
+2025-06-29 16:36:55 - TERMINAL: Windows Terminal opened
+2025-06-29 16:37:42 - DESKTOP: Switched to Desktop 2
+2025-06-29 16:38:24 - DESKTOP: Switched to Desktop 1
+2025-06-29 16:39:14 - CLEANUP: Starting suspended list cleanup
+2025-06-29 16:39:14 - CLEANUP: Completed, 0 entries removed
+2025-06-29 16:39:48 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 16:39:48 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 16:39:48 - REBOOT: Initiating immediate system reboot
+2025-06-29 16:39:48 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 16:39:48 - SHUTDOWN: All processes resumed before exit
+2025-06-29 16:44:01 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 16:47:01 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 16:47:01 - SHUTDOWN: All processes resumed before exit
+2025-06-29 16:48:06 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 16:49:23 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 16:49:23 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 16:49:26 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 16:49:27 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 16:49:27 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 16:49:27 - REBOOT: Initiating immediate system reboot
+2025-06-29 16:49:27 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 16:49:27 - SHUTDOWN: All processes resumed before exit
+2025-06-29 16:50:32 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 16:51:19 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 16:51:19 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 16:51:19 - LAUNCHER: Chrome launched successfully
+2025-06-29 16:51:21 - LAUNCHER: Chrome window activated
+2025-06-29 16:54:38 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 16:54:38 - TERMINAL: Attempting to open floating terminal
+2025-06-29 16:54:38 - TERMINAL: Windows Terminal opened
+2025-06-29 16:54:42 - FULLSIZE: Triple-tap E detected
+2025-06-29 16:54:42 - FULLSIZE: Processing window - WindowsTerminal.exe (Administrator: Windows PowerShell)
+2025-06-29 16:54:42 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 16:54:42 - FULLSIZE: Applied windowed style with borders
+2025-06-29 16:54:42 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 16:54:42 - FULLSIZE: Successfully applied full size mode to WindowsTerminal.exe
+2025-06-29 16:55:32 - CLEANUP: Starting suspended list cleanup
+2025-06-29 16:55:32 - CLEANUP: Completed, 0 entries removed
+2025-06-29 16:59:29 - LAUNCHER: Attempting to launch WhatsApp
+2025-06-29 16:59:29 - LAUNCHER: WhatsApp launched via direct path
+2025-06-29 16:59:54 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 16:59:54 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 16:59:54 - REBOOT: Initiating immediate system reboot
+2025-06-29 16:59:55 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 16:59:55 - SHUTDOWN: All processes resumed before exit
+2025-06-29 17:00:40 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 17:00:59 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 17:00:59 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 17:01:00 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 17:01:18 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 17:01:18 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:01:18 - LAUNCHER: Chrome launched successfully
+2025-06-29 17:01:20 - LAUNCHER: Chrome window activated
+2025-06-29 17:01:20 - TEXT_SHORTCUT: Triggered 'ide' -> 'CURSOR_APP'
+2025-06-29 17:01:20 - LAUNCHER: Attempting to launch Cursor IDE
+2025-06-29 17:01:21 - LAUNCHER: Cursor IDE launched successfully
+2025-06-29 17:01:23 - LAUNCHER: Cursor window activated
+2025-06-29 17:02:08 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 17:02:08 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:02:08 - TERMINAL: Windows Terminal opened
+2025-06-29 17:03:13 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 17:03:13 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:03:13 - LAUNCHER: Chrome already running, activated window
+2025-06-29 17:03:23 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 17:03:23 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:03:23 - LAUNCHER: Chrome already running, activated window
+2025-06-29 17:04:14 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 17:04:14 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:04:14 - TERMINAL: Windows Terminal opened
+2025-06-29 17:05:05 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 17:05:05 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 17:05:05 - WARNING: Samsung Notes not found at specified path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 17:05:05 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 17:05:21 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 17:05:21 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 17:05:21 - WARNING: Samsung Notes not found at specified path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 17:05:21 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 17:05:40 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:05:40 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:10:40 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:10:40 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:15:40 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:15:40 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:19:11 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 17:19:11 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 17:19:12 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 17:19:13 - TEXT_SHORTCUT: Triggered 'mytodo' -> 'TODOIST_APP'
+2025-06-29 17:19:13 - LAUNCHER: Attempting to launch Todoist
+2025-06-29 17:19:14 - LAUNCHER: Todoist launched via direct path: F:\backup\windowsapps\installed\todoist\Todoist.exe
+2025-06-29 17:19:16 - LAUNCHER: Todoist window activated (Todoist.exe)
+2025-06-29 17:20:40 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:20:40 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:21:08 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 17:21:08 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 17:21:09 - LAUNCHER: Firefox launched successfully
+2025-06-29 17:21:10 - LAUNCHER: Firefox window activated
+2025-06-29 17:25:40 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:25:40 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:30:40 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:30:40 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:32:36 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 17:32:36 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 17:32:38 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 17:32:47 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 17:32:47 - SHUTDOWN: All processes resumed before exit
+2025-06-29 17:33:33 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 17:33:58 - TEXT_SHORTCUT: Triggered 'ide' -> 'CURSOR_APP'
+2025-06-29 17:33:58 - LAUNCHER: Attempting to launch Cursor IDE
+2025-06-29 17:33:59 - LAUNCHER: Cursor IDE launched successfully
+2025-06-29 17:34:01 - LAUNCHER: Cursor window activated
+2025-06-29 17:34:20 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 17:34:20 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:34:20 - LAUNCHER: Chrome launched successfully
+2025-06-29 17:34:22 - LAUNCHER: Chrome window activated
+2025-06-29 17:35:05 - DESKTOP: Switched to Desktop 2
+2025-06-29 17:35:06 - DESKTOP: Switched to Desktop 1
+2025-06-29 17:35:12 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 17:35:12 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:35:13 - TERMINAL: Windows Terminal opened
+2025-06-29 17:38:23 - TEXT_SHORTCUT: Triggered 'gccleaner' -> 'gccleaner'
+2025-06-29 17:38:23 - TERMINAL_CMD: Executing command - gccleaner
+2025-06-29 17:38:27 - TERMINAL_CMD: Executed 'gccleaner' with self-terminating PowerShell
+2025-06-29 17:38:33 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:38:33 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:38:40 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 17:38:40 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 17:38:40 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 17:38:42 - LAUNCHER: Samsung Notes window activated (SamsungNotes.exe)
+2025-06-29 17:39:41 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 17:39:41 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 17:39:41 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 17:39:42 - LAUNCHER: Attempting to launch WhatsApp
+2025-06-29 17:39:42 - LAUNCHER: WhatsApp launched via direct path
+2025-06-29 17:39:58 - LAUNCHER: Attempting to close and relaunch WeMod
+2025-06-29 17:39:58 - LAUNCHER: WeMod launched successfully
+2025-06-29 17:40:00 - LAUNCHER: Attempting to launch Cheat Engine
+2025-06-29 17:40:00 - LAUNCHER: Cheat Engine launched successfully
+2025-06-29 17:40:05 - CLOSE_WINDOW: Attempting to close window for cheatengine-x86_64-SSE4-AVX2.exe - Cheat Engine 7.5 (keep process running)
+2025-06-29 17:40:05 - CLOSE_WINDOW: Successfully closed window for cheatengine-x86_64-SSE4-AVX2.exe (process still running)
+2025-06-29 17:40:06 - LAUNCHER: WeMod window activated
+2025-06-29 17:40:06 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 17:40:06 - CLOSE_WINDOW: Blocked attempt to close protected process window: explorer.exe
+2025-06-29 17:40:08 - CLOSE_WINDOW: Blocked attempt to close protected process window: explorer.exe
+2025-06-29 17:40:08 - CLOSE_WINDOW: Blocked attempt to close protected process window: explorer.exe
+2025-06-29 17:40:10 - CLOSE_WINDOW: Blocked attempt to close protected process window: explorer.exe
+2025-06-29 17:42:01 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 17:42:03 - TEXT_SHORTCUT: Triggered 'cccc' -> 'CHROME_APP'
+2025-06-29 17:42:03 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:42:03 - LAUNCHER: Chrome launched successfully
+2025-06-29 17:42:05 - LAUNCHER: Chrome window activated
+2025-06-29 17:42:06 - TEXT_SHORTCUT: Triggered 'cccc' -> 'CHROME_APP'
+2025-06-29 17:42:06 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:42:06 - LAUNCHER: Chrome already running, activated window
+2025-06-29 17:42:11 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 17:42:11 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:42:11 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:42:11 - LAUNCHER: Chrome already running, activated window
+2025-06-29 17:42:16 - TEXT_SHORTCUT: Triggered 'chrome' -> 'CHROME_APP'
+2025-06-29 17:42:16 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:42:16 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:42:16 - LAUNCHER: Chrome launched successfully
+2025-06-29 17:42:18 - LAUNCHER: Chrome window activated
+2025-06-29 17:42:18 - LAUNCHER: Chrome window activated
+2025-06-29 17:43:12 - SHUTDOWN: Script exiting - Reason: Menu
+2025-06-29 17:43:12 - SHUTDOWN: All processes resumed before exit
+2025-06-29 17:43:33 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:43:33 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:44:20 - TEXT_SHORTCUT: Triggered 'gccleaner' -> 'gccleaner'
+2025-06-29 17:44:20 - TERMINAL_CMD: Executing command - gccleaner
+2025-06-29 17:44:21 - TEXT_SHORTCUT: Triggered 'gdb' -> 'gdbooster'
+2025-06-29 17:44:21 - TERMINAL_CMD: Executing command - gdbooster
+2025-06-29 17:44:48 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:44:49 - TERMINAL: Windows Terminal opened
+2025-06-29 17:44:51 - TERMINAL_CMD: Executed 'gdbooster' with self-terminating PowerShell
+2025-06-29 17:44:51 - TERMINAL_CMD: Executed 'gccleaner' with self-terminating PowerShell
+2025-06-29 17:44:51 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 17:44:51 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:44:52 - TERMINAL: Windows Terminal opened
+2025-06-29 17:48:05 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 17:48:05 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:48:05 - TERMINAL: Windows Terminal opened
+2025-06-29 17:48:33 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:48:33 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:48:52 - TEXT_SHORTCUT: Triggered 'installed' -> 'INSTALLED_FOLDER'
+2025-06-29 17:48:52 - FOLDER: Opening installed apps folder
+2025-06-29 17:48:52 - FOLDER: Successfully opened installed apps folder
+2025-06-29 17:49:48 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 17:49:48 - FOLDER: Successfully opened Games folder
+2025-06-29 17:49:56 - TEXT_SHORTCUT: Triggered 'mygames' -> 'MYGAMES_TERMINAL'
+2025-06-29 17:49:56 - MYGAMES: Opening PowerShell terminal and running myg command
+2025-06-29 17:49:56 - MYGAMES: myg command launched in Windows Terminal (PowerShell)
+2025-06-29 17:50:00 - TEXT_SHORTCUT: Triggered 'pipip' -> 'pipip'
+2025-06-29 17:50:00 - TERMINAL_CMD: Executing command - pipip
+2025-06-29 17:50:23 - TEXT_SHORTCUT: Triggered 'sgame' -> 'GAME_SAVE_MANAGER'
+2025-06-29 17:50:23 - LAUNCHER: Attempting to launch Game Save Manager
+2025-06-29 17:50:23 - LAUNCHER: Game Save Manager launched successfully
+2025-06-29 17:50:25 - LAUNCHER: Game Save Manager window activated
+2025-06-29 17:51:43 - TEXT_SHORTCUT: Triggered 'mygames' -> 'MYGAMES_TERMINAL'
+2025-06-29 17:51:43 - MYGAMES: Opening PowerShell terminal and running myg command
+2025-06-29 17:51:43 - MYGAMES: myg command launched in Windows Terminal (PowerShell)
+2025-06-29 17:52:13 - TEXT_SHORTCUT: Triggered 'mygames' -> 'MYGAMES_TERMINAL'
+2025-06-29 17:52:13 - MYGAMES: Opening PowerShell terminal and running myg command
+2025-06-29 17:52:13 - MYGAMES: myg command launched in Windows Terminal (PowerShell)
+2025-06-29 17:52:16 - TERMINAL_CMD: Executed 'pipip' with self-terminating PowerShell
+2025-06-29 17:53:31 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 17:53:31 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 17:53:33 - CLEANUP: Starting suspended list cleanup
+2025-06-29 17:53:33 - CLEANUP: Completed, 0 entries removed
+2025-06-29 17:53:33 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 17:53:39 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 17:53:39 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 17:53:39 - REBOOT: Initiating immediate system reboot
+2025-06-29 17:53:39 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 17:53:39 - SHUTDOWN: All processes resumed before exit
+2025-06-29 17:54:18 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 17:54:28 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 17:54:28 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 17:54:30 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 17:54:58 - TEXT_SHORTCUT: Triggered 'cccc' -> 'CHROME_APP'
+2025-06-29 17:54:58 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 17:54:58 - LAUNCHER: Chrome launched successfully
+2025-06-29 17:55:00 - LAUNCHER: Chrome window activated
+2025-06-29 17:55:16 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 17:55:16 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 17:55:16 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 17:55:18 - LAUNCHER: Samsung Notes window activated (SamsungNotes.exe)
+2025-06-29 17:56:25 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 17:56:25 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 17:56:25 - LAUNCHER: Firefox launched successfully
+2025-06-29 17:56:27 - LAUNCHER: Firefox window activated
+2025-06-29 17:56:53 - TEXT_SHORTCUT: Triggered 'logout' -> 'refresh2'
+2025-06-29 17:56:53 - TERMINAL_CMD: Executing command - refresh2
+2025-06-29 17:56:54 - TERMINAL_CMD: Executed 'refresh2' with self-terminating PowerShell
+2025-06-29 17:56:54 - SHUTDOWN: Script exiting - Reason: Logoff
+2025-06-29 17:56:54 - SHUTDOWN: All processes resumed before exit
+2025-06-29 17:57:01 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 17:57:05 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 17:57:05 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 17:57:05 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 17:57:07 - LAUNCHER: Samsung Notes window activated (SamsungNotes.exe)
+2025-06-29 17:57:35 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 17:57:35 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 17:57:35 - REBOOT: Initiating immediate system reboot
+2025-06-29 17:57:35 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 17:57:35 - SHUTDOWN: All processes resumed before exit
+2025-06-29 17:58:17 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 17:58:23 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 17:58:23 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 17:58:23 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 17:58:29 - LAUNCHER: Samsung Notes window activated (SamsungNotes.exe)
+2025-06-29 17:58:39 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 17:58:39 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:58:42 - WARNING: No terminal application could be opened
+2025-06-29 17:58:43 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 17:58:43 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:58:45 - WARNING: No terminal application could be opened
+2025-06-29 17:58:46 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 17:58:46 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:58:47 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:58:50 - WARNING: No terminal application could be opened
+2025-06-29 17:58:50 - WARNING: No terminal application could be opened
+2025-06-29 17:59:23 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 17:59:23 - TERMINAL: Attempting to open floating terminal
+2025-06-29 17:59:24 - TERMINAL: Windows Terminal opened
+2025-06-29 18:00:12 - LAUNCHER: Attempting to launch WhatsApp
+2025-06-29 18:00:12 - LAUNCHER: WhatsApp launched via direct path
+2025-06-29 18:00:53 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 18:00:53 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 18:00:53 - REBOOT: Initiating immediate system reboot
+2025-06-29 18:00:53 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 18:00:53 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:01:34 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:01:39 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:01:39 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:01:39 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:01:56 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 18:02:39 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 18:02:39 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 18:02:39 - REBOOT: Initiating immediate system reboot
+2025-06-29 18:02:39 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 18:02:39 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:03:21 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:03:54 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:03:54 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:03:54 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:04:09 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 18:04:09 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 18:04:09 - REBOOT: Initiating immediate system reboot
+2025-06-29 18:04:09 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 18:04:09 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:04:51 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:05:19 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 18:05:19 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 18:05:19 - REBOOT: Initiating immediate system reboot
+2025-06-29 18:05:20 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 18:05:20 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:06:03 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:06:47 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:06:47 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:06:47 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:07:04 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 18:07:28 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 18:07:28 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 18:07:28 - REBOOT: Initiating immediate system reboot
+2025-06-29 18:07:29 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 18:07:29 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:08:08 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:08:13 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:08:13 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:08:13 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:08:18 - LAUNCHER: Samsung Notes window activated (SamsungNotes.exe)
+2025-06-29 18:08:56 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:08:56 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:08:56 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:09:09 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 18:09:09 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 18:09:09 - REBOOT: Initiating immediate system reboot
+2025-06-29 18:09:10 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 18:09:10 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:09:54 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:11:00 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 18:11:00 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 18:11:00 - LAUNCHER: Firefox launched successfully
+2025-06-29 18:11:01 - LAUNCHER: Firefox window activated
+2025-06-29 18:12:54 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:12:54 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:12:54 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:13:11 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 18:13:28 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:13:28 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:13:28 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:13:33 - LAUNCHER: Samsung Notes window activated (SamsungNotes.exe)
+2025-06-29 18:13:44 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 18:13:44 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 18:13:44 - REBOOT: Initiating immediate system reboot
+2025-06-29 18:13:44 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 18:13:44 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:14:25 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:14:33 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:14:33 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:14:33 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:14:38 - LAUNCHER: Samsung Notes window activated (SamsungNotes.exe)
+2025-06-29 18:14:48 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:14:48 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:14:48 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:14:52 - LAUNCHER: Samsung Notes window activated (SamsungNotes.exe)
+2025-06-29 18:16:59 - TEXT_SHORTCUT: Triggered 'rebootit' -> 'REBOOT_SYSTEM'
+2025-06-29 18:16:59 - TERMINAL_CMD: Executing command - REBOOT_SYSTEM
+2025-06-29 18:16:59 - REBOOT: Initiating immediate system reboot
+2025-06-29 18:16:59 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 18:16:59 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:17:39 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:17:51 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 18:17:51 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 18:17:51 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 18:18:08 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 18:19:40 - LAUNCHER: Attempting to launch WhatsApp
+2025-06-29 18:19:40 - LAUNCHER: WhatsApp launched via direct path
+2025-06-29 18:19:45 - LAUNCHER: WhatsApp window activated
+2025-06-29 18:20:15 - TEXT_SHORTCUT: Triggered 'cccc' -> 'CHROME_APP'
+2025-06-29 18:20:15 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 18:20:15 - LAUNCHER: Chrome launched successfully
+2025-06-29 18:20:17 - LAUNCHER: Chrome window activated
+2025-06-29 18:21:09 - TEXT_SHORTCUT: Triggered 'logout' -> 'refresh2'
+2025-06-29 18:21:09 - TERMINAL_CMD: Executing command - refresh2
+2025-06-29 18:21:10 - TERMINAL_CMD: Executed 'refresh2' with self-terminating PowerShell
+2025-06-29 18:21:10 - SHUTDOWN: Script exiting - Reason: Logoff
+2025-06-29 18:21:10 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:21:23 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:21:59 - TEXT_SHORTCUT: Triggered 'mreflect' -> 'MACRIUM_REFLECT_APP'
+2025-06-29 18:21:59 - LAUNCHER: Attempting to launch Macrium Reflect
+2025-06-29 18:21:59 - LAUNCHER: Macrium Reflect launched successfully from: F:\backup\windowsapps\installed\MacriumReflect\Reflect\Reflect.exe
+2025-06-29 18:22:11 - WARNING: Macrium Reflect launched but window not detected within 10 seconds
+2025-06-29 18:22:42 - TEXT_SHORTCUT: Triggered 'logout' -> 'refresh2'
+2025-06-29 18:22:42 - TERMINAL_CMD: Executing command - refresh2
+2025-06-29 18:22:43 - TERMINAL_CMD: Executed 'refresh2' with self-terminating PowerShell
+2025-06-29 18:22:43 - SHUTDOWN: Script exiting - Reason: Logoff
+2025-06-29 18:22:43 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:22:55 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:23:24 - TEXT_SHORTCUT: Triggered 'logout' -> 'refresh2'
+2025-06-29 18:23:24 - TERMINAL_CMD: Executing command - refresh2
+2025-06-29 18:23:25 - TERMINAL_CMD: Executed 'refresh2' with self-terminating PowerShell
+2025-06-29 18:23:25 - SHUTDOWN: Script exiting - Reason: Logoff
+2025-06-29 18:23:25 - SHUTDOWN: All processes resumed before exit
+2025-06-29 18:23:36 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 18:23:54 - TEXT_SHORTCUT: Triggered 'mreflect' -> 'MACRIUM_REFLECT_APP'
+2025-06-29 18:23:54 - LAUNCHER: Attempting to launch Macrium Reflect
+2025-06-29 18:23:54 - LAUNCHER: Macrium Reflect launched successfully from: F:\backup\windowsapps\installed\MacriumReflect\Reflect\Reflect.exe
+2025-06-29 18:24:06 - WARNING: Macrium Reflect launched but window not detected within 10 seconds
+2025-06-29 18:27:39 - TEXT_SHORTCUT: Triggered 'cccc' -> 'CHROME_APP'
+2025-06-29 18:27:39 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 18:27:39 - LAUNCHER: Chrome launched successfully
+2025-06-29 18:27:41 - LAUNCHER: Chrome window activated
+2025-06-29 18:27:52 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 18:27:52 - TERMINAL: Attempting to open floating terminal
+2025-06-29 18:27:53 - TERMINAL: Windows Terminal opened
+2025-06-29 18:28:36 - CLEANUP: Starting suspended list cleanup
+2025-06-29 18:28:39 - CLEANUP: Completed, 0 entries removed
+2025-06-29 18:31:27 - FULLSIZE: Triple-tap E detected
+2025-06-29 18:31:31 - FULLSIZE: Processing window - chrome.exe (Fastest F Drive Backup PowerShell Script - Claude - Google Chrome)
+2025-06-29 18:31:33 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 18:31:36 - FULLSIZE: Applied windowed style with borders
+2025-06-29 18:31:39 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 18:31:41 - FULLSIZE: Successfully applied full size mode to chrome.exe
+2025-06-29 18:33:36 - CLEANUP: Starting suspended list cleanup
+2025-06-29 18:33:39 - CLEANUP: Completed, 0 entries removed
+2025-06-29 18:33:45 - FULLSIZE: Triple-tap E detected
+2025-06-29 18:33:48 - FULLSIZE: Processing window - chrome.exe (Fastest F Drive Backup PowerShell Script - Claude - Google Chrome)
+2025-06-29 18:33:50 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 18:33:52 - FULLSIZE: Applied windowed style with borders
+2025-06-29 18:33:55 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 18:33:57 - FULLSIZE: Successfully applied full size mode to chrome.exe
+2025-06-29 18:34:11 - TEXT_SHORTCUT: Triggered 'yyyy' -> 'SPLIT_THREE_APPS'
+2025-06-29 18:34:14 - SPLIT_THREE_APPS: Starting horizontal split of top 3 applications
+2025-06-29 18:34:16 - SPLIT_THREE_APPS: Positioned WindowsTerminal.exe on left third
+2025-06-29 18:34:18 - SPLIT_THREE_APPS: Positioned chrome.exe on middle third
+2025-06-29 18:34:21 - SPLIT_THREE_APPS: Positioned NVIDIA Overlay.exe on right third
+2025-06-29 18:34:23 - SPLIT_THREE_APPS: Successfully split WindowsTerminal.exe, chrome.exe, and NVIDIA Overlay.exe horizontally
+2025-06-29 18:35:10 - TEXT_SHORTCUT: Triggered 'mytodo' -> 'TODOIST_APP'
+2025-06-29 18:35:33 - LAUNCHER: Attempting to launch Todoist
+2025-06-29 18:39:22 - CLEANUP: Starting suspended list cleanup
+2025-06-29 18:39:24 - CLEANUP: Completed, 0 entries removed
+2025-06-29 18:39:27 - LAUNCHER: Todoist launched via direct path: F:\backup\windowsapps\installed\todoist\Todoist.exe
+2025-06-29 18:39:31 - SUSPEND: Executing "F:\backup\windowsapps\installed\PSTools\pssuspend64.exe" "WindowsTerminal.exe"
+2025-06-29 18:39:37 - DESKTOP: Switched to Desktop 2
+2025-06-29 18:39:42 - DESKTOP: Switched to Desktop 1
+2025-06-29 18:40:37 - TEXT_SHORTCUT: Triggered 'cccc' -> 'CHROME_APP'
+2025-06-29 18:40:40 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 18:40:43 - LAUNCHER: Chrome launched successfully
+2025-06-29 18:40:46 - LAUNCHER: Chrome window activated
+2025-06-29 18:41:24 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:41:24 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:41:26 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:41:26 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:41:27 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:41:27 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:41:27 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:41:27 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:41:29 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:41:29 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:41:33 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:41:33 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:41:38 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:41:38 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:41:41 - TEXT_SHORTCUT: Triggered 'ide' -> 'CURSOR_APP'
+2025-06-29 18:41:41 - LAUNCHER: Attempting to launch Cursor IDE
+2025-06-29 18:41:43 - LAUNCHER: Cursor IDE launched successfully
+2025-06-29 18:41:45 - LAUNCHER: Cursor window activated
+2025-06-29 18:42:37 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:42:37 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:42:38 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:42:38 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:42:40 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:42:40 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:42:41 - FOLDER: Opening Games folder in File Explorer
+2025-06-29 18:42:41 - ERROR: Games folder not found at: C:\Users\micha\Desktop\games
+2025-06-29 18:42:54 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 18:42:54 - TERMINAL: Attempting to open floating terminal
+2025-06-29 18:42:55 - TERMINAL: Windows Terminal opened
+2025-06-29 18:44:22 - CLEANUP: Starting suspended list cleanup
+2025-06-29 18:44:22 - CLEANUP: Completed, 0 entries removed
+2025-06-29 18:46:32 - TEXT_SHORTCUT: Triggered 'cccc' -> 'CHROME_APP'
+2025-06-29 18:46:35 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 18:46:38 - LAUNCHER: Chrome already running, activated window
+2025-06-29 18:47:25 - TEXT_SHORTCUT: Triggered 'claude' -> 'CLAUDE_WEB'
+2025-06-29 18:47:28 - WEB: Opening Claude.ai in Chrome
+2025-06-29 18:47:32 - WEB: Claude.ai opened in Chrome
+2025-06-29 18:48:07 - FULLSIZE: Triple-tap E detected
+2025-06-29 18:48:10 - FULLSIZE: Processing window - chrome.exe (Claude - Google Chrome)
+2025-06-29 18:48:13 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 18:48:15 - FULLSIZE: Applied windowed style with borders
+2025-06-29 18:48:18 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 18:48:21 - FULLSIZE: Successfully applied full size mode to chrome.exe
+2025-06-29 18:49:22 - CLEANUP: Starting suspended list cleanup
+2025-06-29 18:49:24 - CLEANUP: Completed, 0 entries removed
+2025-06-29 18:49:30 - LAUNCHER: Attempting to launch WhatsApp
+2025-06-29 18:49:34 - LAUNCHER: WhatsApp launched via direct path
+2025-06-29 18:53:01 - TEXT_SHORTCUT: Triggered 'yyyy' -> 'SPLIT_THREE_APPS'
+2025-06-29 18:53:03 - SPLIT_THREE_APPS: Starting horizontal split of top 3 applications
+2025-06-29 18:53:06 - SPLIT_THREE_APPS: Less than 3 windows found, cannot split
+2025-06-29 18:53:17 - TEXT_SHORTCUT: Triggered 'tttt' -> 'SPLIT_TOP_APPS'
+2025-06-29 18:53:20 - SPLIT_APPS: Starting horizontal split of top applications
+2025-06-29 18:53:24 - SPLIT_APPS: Positioned chrome.exe on left half
+2025-06-29 18:53:30 - SPLIT_APPS: Positioned WindowsTerminal.exe on right half
+2025-06-29 18:53:34 - SPLIT_APPS: Successfully split chrome.exe and WindowsTerminal.exe horizontally
+2025-06-29 18:53:51 - TEXT_SHORTCUT: Triggered 'claude' -> 'CLAUDE_WEB'
+2025-06-29 18:53:53 - WEB: Opening Claude.ai in Chrome
+2025-06-29 18:54:02 - WEB: Claude.ai opened in Chrome
+2025-06-29 18:54:22 - CLEANUP: Starting suspended list cleanup
+2025-06-29 18:54:25 - CLEANUP: Completed, 0 entries removed
+2025-06-29 18:57:29 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 18:57:32 - TERMINAL: Attempting to open floating terminal
+2025-06-29 18:57:36 - TERMINAL: Windows Terminal opened
+2025-06-29 18:57:55 - TEXT_SHORTCUT: Triggered 'chatgpt' -> 'CHATGPT_WEB'
+2025-06-29 18:57:57 - WEB: Opening ChatGPT in Chrome
+2025-06-29 18:58:06 - WEB: ChatGPT opened in Chrome
+2025-06-29 18:59:22 - CLEANUP: Starting suspended list cleanup
+2025-06-29 18:59:25 - CLEANUP: Completed, 0 entries removed
+2025-06-29 19:04:22 - CLEANUP: Starting suspended list cleanup
+2025-06-29 19:04:24 - CLEANUP: Completed, 0 entries removed
+2025-06-29 23:07:37 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 23:07:45 - TEXT_SHORTCUT: Triggered 'bios' -> 'bios'
+2025-06-29 23:07:45 - TERMINAL_CMD: Executing command - bios
+2025-06-29 23:07:47 - SHUTDOWN: Script exiting - Reason: Shutdown
+2025-06-29 23:07:47 - SHUTDOWN: All processes resumed before exit
+2025-06-29 23:11:43 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 23:11:51 - DESKTOP: Switched to Desktop 2
+2025-06-29 23:11:52 - DESKTOP: Switched to Desktop 1
+2025-06-29 23:12:02 - SUSPEND: Executing "F:\backup\windowsapps\installed\PSTools\pssuspend64.exe" "chrome.exe"
+2025-06-29 23:12:25 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 23:12:25 - TERMINAL: Attempting to open floating terminal
+2025-06-29 23:12:26 - TERMINAL: Windows Terminal opened
+2025-06-29 23:14:08 - TEXT_SHORTCUT: Triggered 'ide' -> 'CURSOR_APP'
+2025-06-29 23:14:08 - LAUNCHER: Attempting to launch Cursor IDE
+2025-06-29 23:14:09 - LAUNCHER: Cursor IDE launched successfully
+2025-06-29 23:14:11 - LAUNCHER: Cursor window activated
+2025-06-29 23:14:53 - FULLSIZE: Triple-tap E detected
+2025-06-29 23:14:53 - FULLSIZE: Processing window - Cursor.exe (? z10.ahk - myMainAHK - Cursor [Administrator])
+2025-06-29 23:14:53 - FULLSIZE: Using full resolution: 2560x1600
+2025-06-29 23:14:53 - FULLSIZE: Applied windowed style with borders
+2025-06-29 23:14:53 - FULLSIZE: Positioned window at full screen size with borders
+2025-06-29 23:14:53 - FULLSIZE: Successfully applied full size mode to Cursor.exe
+2025-06-29 23:16:43 - CLEANUP: Starting suspended list cleanup
+2025-06-29 23:16:43 - CLEANUP: Completed, 0 entries removed
+2025-06-29 23:17:16 - TEXT_SHORTCUT: Triggered 'cccc' -> 'CHROME_APP'
+2025-06-29 23:17:16 - LAUNCHER: Attempting to launch Chrome
+2025-06-29 23:17:16 - LAUNCHER: Chrome launched successfully
+2025-06-29 23:17:18 - LAUNCHER: Chrome window activated
+2025-06-29 23:18:46 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 23:18:46 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 23:18:46 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 23:19:03 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 23:21:43 - CLEANUP: Starting suspended list cleanup
+2025-06-29 23:21:43 - CLEANUP: Completed, 0 entries removed
+2025-06-29 23:23:10 - TEXT_SHORTCUT: Triggered 'fire' -> 'FIREFOX_APP'
+2025-06-29 23:23:10 - LAUNCHER: Attempting to launch Firefox
+2025-06-29 23:23:10 - LAUNCHER: Firefox launched successfully
+2025-06-29 23:23:12 - LAUNCHER: Firefox window activated
+2025-06-29 23:24:58 - SHUTDOWN: Script exiting - Reason: Reload
+2025-06-29 23:24:58 - SHUTDOWN: All processes resumed before exit
+2025-06-29 23:24:59 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 23:25:01 - SUSPEND: Executing "F:\backup\windowsapps\installed\PSTools\pssuspend64.exe" "WindowsTerminal.exe"
+2025-06-29 23:25:01 - SUCCESS: Suspended WindowsTerminal.exe
+2025-06-29 23:25:03 - RESUME: Executing "F:\backup\windowsapps\installed\PSTools\pssuspend64.exe" -r "WindowsTerminal.exe"
+2025-06-29 23:25:03 - SUCCESS: Resumed WindowsTerminal.exe
+2025-06-29 23:25:03 - RESUME_ALL: Completed - Success: 1, Failed: 0
+2025-06-29 23:25:06 - SUSPEND: Executing "F:\backup\windowsapps\installed\PSTools\pssuspend64.exe" "WindowsTerminal.exe"
+2025-06-29 23:25:06 - SUCCESS: Suspended WindowsTerminal.exe
+2025-06-29 23:25:08 - RESUME: Executing "F:\backup\windowsapps\installed\PSTools\pssuspend64.exe" -r "WindowsTerminal.exe"
+2025-06-29 23:25:08 - SUCCESS: Resumed WindowsTerminal.exe
+2025-06-29 23:25:08 - RESUME_ALL: Completed - Success: 1, Failed: 0
+2025-06-29 23:25:13 - SUSPEND: Executing "F:\backup\windowsapps\installed\PSTools\pssuspend64.exe" "WindowsTerminal.exe"
+2025-06-29 23:25:13 - SUCCESS: Suspended WindowsTerminal.exe
+2025-06-29 23:25:14 - RESUME: Executing "F:\backup\windowsapps\installed\PSTools\pssuspend64.exe" -r "WindowsTerminal.exe"
+2025-06-29 23:25:14 - SUCCESS: Resumed WindowsTerminal.exe
+2025-06-29 23:25:14 - RESUME_ALL: Completed - Success: 1, Failed: 0
+2025-06-29 23:27:21 - TEXT_SHORTCUT: Triggered 'nnn' -> 'nnn'
+2025-06-29 23:27:21 - TERMINAL_CMD: Executing command - nnn
+2025-06-29 23:29:59 - CLEANUP: Starting suspended list cleanup
+2025-06-29 23:29:59 - CLEANUP: Completed, 0 entries removed
+2025-06-29 23:30:02 - TEXT_SHORTCUT: Triggered 'chatgpt' -> 'CHATGPT_WEB'
+2025-06-29 23:30:02 - WEB: Opening ChatGPT in Chrome
+2025-06-29 23:30:02 - WEB: ChatGPT opened in Chrome
+2025-06-29 23:32:40 - TERMINAL_CMD: Executed 'nnn' with self-terminating PowerShell
+2025-06-29 23:33:45 - TEXT_SHORTCUT: Triggered 'ide' -> 'CURSOR_APP'
+2025-06-29 23:33:45 - LAUNCHER: Attempting to launch Cursor IDE
+2025-06-29 23:33:45 - LAUNCHER: Cursor IDE launched successfully
+2025-06-29 23:33:47 - LAUNCHER: Cursor window activated
+2025-06-29 23:33:58 - TEXT_SHORTCUT: Triggered 'notes' -> 'SAMSUNG_NOTES'
+2025-06-29 23:33:58 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 23:33:58 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 23:34:15 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 23:34:24 - TEXT_SHORTCUT: Triggered 'nnn' -> 'nnn'
+2025-06-29 23:34:24 - TERMINAL_CMD: Executing command - nnn
+2025-06-29 23:34:59 - CLEANUP: Starting suspended list cleanup
+2025-06-29 23:34:59 - CLEANUP: Completed, 0 entries removed
+2025-06-29 23:36:30 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 23:36:30 - TERMINAL: Attempting to open floating terminal
+2025-06-29 23:36:30 - TERMINAL: Windows Terminal opened
+2025-06-29 23:36:40 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 23:36:42 - TEXT_SHORTCUT: Triggered 'nnnn' -> 'SAMSUNG_NOTES'
+2025-06-29 23:36:42 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 23:36:42 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 23:36:54 - TERMINAL_CMD: Executed 'nnn' with self-terminating PowerShell
+2025-06-29 23:36:55 - TEXT_SHORTCUT: Triggered 'nnn' -> 'nnn'
+2025-06-29 23:36:55 - TERMINAL_CMD: Executing command - nnn
+2025-06-29 23:36:59 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 23:37:06 - SHUTDOWN: Script exiting - Reason: Menu
+2025-06-29 23:37:06 - SHUTDOWN: All processes resumed before exit
+2025-06-29 23:37:36 - SHUTDOWN: Script exiting - Reason: Reload
+2025-06-29 23:37:36 - SHUTDOWN: All processes resumed before exit
+2025-06-29 23:37:36 - STARTUP: Complete Desktop, Terminal & Process Manager started successfully (Admin mode)
+2025-06-29 23:39:24 - TEXT_SHORTCUT: Triggered 'nnnn' -> 'SAMSUNG_NOTES'
+2025-06-29 23:39:24 - LAUNCHER: Attempting to launch Samsung Notes
+2025-06-29 23:39:24 - LAUNCHER: Samsung Notes launched via direct path: C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungNotes_4.3.418.0_x64__wyx1vj98g3asy\SamsungNotes.exe
+2025-06-29 23:39:41 - LAUNCHER: Samsung Notes launched via shell:AppsFolder
+2025-06-29 23:40:11 - TEXT_SHORTCUT: Triggered 'bin' -> 'EMPTY_RECYCLE_BIN'
+2025-06-29 23:40:11 - RECYCLE_BIN: Attempting to empty recycle bin
+2025-06-29 23:40:14 - RECYCLE_BIN: Successfully emptied using PowerShell
+2025-06-29 23:40:44 - TEXT_SHORTCUT: Triggered 'mytodo' -> 'TODOIST_APP'
+2025-06-29 23:40:44 - LAUNCHER: Attempting to launch Todoist
+2025-06-29 23:40:45 - LAUNCHER: Todoist launched via direct path: F:\backup\windowsapps\installed\todoist\Todoist.exe
+2025-06-29 23:40:47 - LAUNCHER: Todoist window activated (Todoist.exe)
+2025-06-29 23:42:36 - CLEANUP: Starting suspended list cleanup
+2025-06-29 23:42:36 - CLEANUP: Completed, 0 entries removed
+2025-06-29 23:43:22 - TEXT_SHORTCUT: Triggered 'rer' -> 'OPEN_TERMINAL'
+2025-06-29 23:43:22 - TERMINAL: Attempting to open floating terminal
+2025-06-29 23:43:23 - TERMINAL: Windows Terminal opened
+2025-06-29 23:43:28 - TEXT_SHORTCUT: Triggered 'ubuntu' -> 'UBUNTU_WSL'
+2025-06-29 23:43:28 - UBUNTU: Opening terminal and running WSL Ubuntu
+2025-06-29 23:43:28 - UBUNTU: Ubuntu WSL launched in Windows Terminal
